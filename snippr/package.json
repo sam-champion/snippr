@@ -1,0 +1,22 @@
+{
+  "name": "snippr",
+  "version": "1.0.0",
+  "description": "a tool which allows users to save their useful code snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-champion/snippr.git"
+  },
+  "author": "sam-champion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-champion/snippr/issues"
+  },
+  "homepage": "https://github.com/sam-champion/snippr#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
